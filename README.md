@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F72A&width=400&lines=Hello+World!)
+![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00AAff&width=400&lines=Hello+World!)
