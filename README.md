@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center"> <img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai"> </div>
+![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F72A&width=400&lines=Hi,+I'm+a+Frontend+Developer)
